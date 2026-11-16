@@ -1,0 +1,17 @@
+
+# Moi truong Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# File tam
+.vscode/
+*.log
+
+# Du lieu lon (neu khong can upload)
+# *.npy
+# *.pkl
